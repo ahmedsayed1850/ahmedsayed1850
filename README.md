@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed El Sayed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **E-commerce Project**
 
-- 🌱 I’m currently learning **firebase**
+- 🌱 I’m currently learning **Progressive Web Application**
 
-- 👯 I’m looking to collaborate on **Open Source Projects,**
+- 👯 I’m looking to collaborate on **Open Source and Nextjs Based Applications**
 
 - 👨‍💻 All of my projects are available at [http://ahmed-el-sayed.com](http://ahmed-el-sayed.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmedelsayedgam@gmail.com**
 
-- ⚡ Fun fact **When I was 12 I used to change online games and websites from console and edit html and css into funny images**
+- ⚡ Fun fact **When I was 12 I used to cheat on online games and websites from console and edit html and css into funny images**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
