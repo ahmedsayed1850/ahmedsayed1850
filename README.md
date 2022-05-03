@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed El Sayed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on **E-commerce Project**
+- 🔭 I’m currently working on **Upwork**
 
 - 🌱 I’m currently learning **Progressive Web Application**
 
