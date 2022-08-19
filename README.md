@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed El Sayed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
 - 🌱 I’m currently learning **Progressive Web Application**
 
 - 👯 I’m looking to collaborate on **Open Source and Nextjs Based Applications**
-
-- 👨‍💻 All of my projects are available at [http://ahmed-el-sayed.com](http://ahmed-el-sayed.com)
 
 - 💬 Ask me about **React, Javascript, CSS**
 
